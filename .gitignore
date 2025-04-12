@@ -1,3 +1,9 @@
 .*
 !.*ignore
 *.custom.md
+!examples/*.custom.md
+examples/.*
+!.cursor/
+
+custom/**
+!custom/*.example.md

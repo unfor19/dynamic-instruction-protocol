@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# DIP - Dynamic Instruction Protocol - Main
+
+- ALWAYS read [README.md](mdc:README.md) to get context about the project
+- ALWAYS use industry standard best practices
+- ALWAYS avoid adding unnecessary code unless explicitly needed
+- ALWAYS maintain logic unless explicitly instructed otherwise
