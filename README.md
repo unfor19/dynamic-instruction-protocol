@@ -2,7 +2,11 @@
 
 ## 🍕 Dynamic Instruction Protocol (DIP)
 
-Welcome to **DIP** — the tastiest way to interact with APIs using AI 🤖🍕. DIP stands for **Dynamic Instruction Protocol**, a Markdown-powered, AI-assisted approach for dynamically generating API commands on the fly. Whether you're automating GitHub tasks, managing DevOps pipelines, or just having fun, DIP is here to simplify your workflow.
+Welcome to **DIP** — the tastiest way to interact with APIs using AI 🤖🍕. 
+
+DIP stands for **Dynamic Instruction Protocol**, a Markdown-powered, AI-assisted approach for dynamically generating API commands on the fly. 
+
+Whether you're automating GitHub tasks, managing DevOps pipelines, or just having fun, DIP is here to simplify your workflow.
 
 ![DIP Cover Image](https://github.com/unfor19/dynamic-instruction-protocol/blob/main/assets/cover.png)
 
