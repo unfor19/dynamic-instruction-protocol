@@ -161,9 +161,9 @@ dip/
      
      The same pattern applies to any service:
      ```
-     - When a user mentions `$do-jira` or asks about Jira API, read both:
-       /absolute/path/to/custom/jira.md
-       /absolute/path/to/templates/jira.md
+     - When a user mentions `$do-atlassian-acli` or asks about Atlassian CLI, read both:
+       /absolute/path/to/custom/atlassian.acli.md
+       /absolute/path/to/templates/atlassian.acli.md
      ```
 
    **Option 2: Use project rules** - Will work only for specific projects
