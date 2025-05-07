@@ -166,6 +166,12 @@ dip/
        /absolute/path/to/templates/atlassian.acli.md
      ```
 
+      ```
+      - When a user asks about Atlassian CLI, or Confluence or JIRA read both:
+         /absolute/path/to/custom/atlassian.curl.md
+         /absolute/path/to/templates/atlassian.curl.md
+      ```
+
    **Option 2: Use project rules** - Will work only for specific projects
    - Go to Cursor Settings > Rules > Project Rules
    - Add content just like you would for the global rule
