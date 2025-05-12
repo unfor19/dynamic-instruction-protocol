@@ -174,8 +174,8 @@ dip/
 
       ```
       - When a user asks about Mongo, MongoDB, mongosh, disregard repository rules, read both files and follow their instructions according to user prompt:
-         /Users/meir.g/meir/dynamic-instruction-protocol/custom/mongodb.mongosh.md
-         /Users/meir.g/meir/dynamic-instruction-protocol/templates/mongodb.mongosh.md      
+         /absolute/path/to/custom/mongodb.mongosh.md
+         /absolute/path/to/templates/mongodb.mongosh.md      
       ```
 
    **Option 2: Use project rules** - Will work only for specific projects
